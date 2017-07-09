@@ -1,9 +1,9 @@
 {
-  "name": "IT3046C-Lab-9",
+  "name": "downsjy_Assignment09_IT3046C",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.uc.edu:livelyar/IT3046C-17US-Lab-9.git",
-  "author": "Andrew Lively <livelyar@ucmail.uc.edu>",
+  "repository": "https://github.com/JeffDowns/downsjy_Assignment09_IT3046C.git",
+  "author": "Jeff Downs <jeffdowns92@gmail.com>",
   "scripts": {
     "test": "./node_modules/.bin/jest"
   },
