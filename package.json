@@ -2,8 +2,8 @@
   "name": "downsjy_Assignment09_IT3046C",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/JeffDowns/downsjy_Assignment09_IT3046C.git",
-  "author": "Jeff Downs <jeffdowns92@gmail.com>",
+  "repository": "JeffDowns/downsjy_Assignment09_IT3046C.git",
+  "author": "JeffDowns <jeffdowns92@gmail.com>",
   "scripts": {
     "test": "./node_modules/.bin/jest"
   },
